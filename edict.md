@@ -171,6 +171,183 @@ The following cards are being monitored and might be targeted in the future:
 - Pathfinder’s Blade
 - Scouted Terrain
 
+## A Time for Action: take the list into play
+To facilitate, here goes the collected list of banned and restricted cards. If you skipped to the end, we still recommend reading the article above later.
+
+<table>
+<tr>
+<td>
+<strong>Rally purge</strong>
+
+- Recalled Defenses
+- Akodo Reserve Company
+- A Season of War
+- Butcher of the Fallen
+- Cunning Negotiator
+- Daidoji Marketplace
+- Twilight Rider
+- Student of the Tao
+- Scholar of the Old Rempet
+- Veteran of Toshi Ranbo
+- Stoic Rival
+- Hidden Mountain Pass
+- Ikoma Tsanuri 2
+- Celebrated Renown
+- Shadow Stalker
+- Open Window
+- Ride at Dawn
+- Mercenary Company
+- Pious Guardian
+- Master of Many Lifetimes
+- Honored Veterans
+- Beautiful Entertainer
+- Contested Countryside
+- Shiba Pureheart
+- Sudden Tempest
+
+<strong>Imperial Law Bans</strong>
+- Guest of Honor (Core Set, 51)
+- Spyglass (Core Set, 193)
+- Charge! (Core Set, 210)
+- Isawa Tadaka 1
+- Karada District (Imperial Cycle, 4)
+- Policy Debate (Imperial Cycle, 40)
+- Master of Gisei Toshi
+- Kanjo District (Imperial Cycle, 108)
+- Jurōjin’s Curse (Elemental Cycle, 55)
+- Hidden Moon Dōjō
+- Magistrate Station
+- Mirumoto Daishō
+- Gateway to Meido
+- Lost Papers
+- Forged Edict
+</td>
+<td>
+<strong>Neutral</strong>
+
+- City of the Rich Frog
+- The Imperial Palace
+- Proving Grounds
+- Shameful Display
+
+<strong>Crab</strong>
+
+- Rebuild
+- Common Cause
+
+<strong>Crane</strong>
+
+- Kakita Toshimoko
+- Daidoji Netsu
+- Daidoji Uji 2
+- The Wealth of the Crane
+
+<strong>Dragon</strong>
+
+- Ki Alignment
+- Shoshi ni Kie
+
+<strong>Lion</strong>
+
+- Logistics
+- Tactical Ingenuity
+
+<strong>Phoenix</strong>
+
+- Embrace the Void
+- Display of Power
+- Consumed by Five Fires
+
+<strong>Scorpion</strong>
+
+- Duty
+- Cunning Magistrate
+- Dispatch to Nowhere
+- Shadowed Village
+- Governor's Spy
+
+<strong>Unicorn</strong>
+
+- Talisman of the Sun
+</td>
+</tr>
+<tr>
+<td>
+<strong>Restricted Cards</strong>
+
+<strong>Neutral</strong>
+
+- Keeper Initiate
+
+<strong>Crab</strong>
+
+- Kaiu Envoy
+- Kuni Laboratory
+- Way of the Crab
+- Reprieve
+
+<strong>Dragon</strong>
+
+- Sacred Sanctuary
+- Seal of the Dragon
+- Mirumoto’s Fury
+
+<strong>Lion</strong>
+
+- Spectral Visitation
+- Exposed Courtyard
+- Chronicler of Conquests
+
+<strong>Phoenix</strong>
+
+- Sanpuku Seido
+
+<strong>Scorpion</strong>
+
+- Bayushi Shoju 2
+- Alibi Artist
+- Shadow Step
+- Mark of Shame
+- A Fate Worse than Death
+
+<strong>Unicorn</strong>
+- Khanbulak Benefactor
+- Utaku Tetsuko
+- Shinjo Yasamura
+- Scouted Terrain
+</td>
+<td>
+<strong>Liberated</strong>
+
+<strong>Crab</strong>
+- Pathfinder’s Blade
+- Iron Mine
+
+<strong>Crane</strong>
+
+- Doji Diplomat
+
+<strong>Dragon</strong>
+
+- Agasha Swordsmith
+<strong>Scorpion</strong>
+
+- Bayushi Liar
+- Bayushi Kachiko 2
+
+<strong>Watchlist</strong>
+
+- Slovenly Scavenger
+- Elegant Tessen
+- Hantei XXXVIII
+- Upholding Authority
+- Pathfinder’s Blade
+- Scouted Terrain
+
+</td>
+</tr>
+</table>
+
 ## Servitors of Stone: roll the credits
 
 This Jade Edict was elaborated in appreciation for the game and respect for the community, by the Magistrate Team:
