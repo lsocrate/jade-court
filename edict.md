@@ -174,7 +174,7 @@ The following cards are being monitored and might be targeted in the future:
 - Scouted Terrain
 
 ## A Time for Action: take the list into play
-To facilitate, here goes the collected list of banned and restricted cards. If you skipped to the end, we still recommend reading the article above later.
+To facilitate, here goes the collected list of banned and restricted cards. If you skipped to the end, [we still recommend reading the article above later](#jade-edict-beta).
 
 <table>
 <colgroup>
