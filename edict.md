@@ -1,3 +1,195 @@
 # Jade Edict Beta
 
 It was a cold winter day when the Jade Court started, January 5th. As far as we knew, L5R was alive and had a bright future ahead. Our aim was to create a parallel list, nothing much. Alas, the Empire has changed, and this effort acquired a larger importance than we expected. We kept the process, we kept the goals, and we kept the momentum. But enough history, let us move to the list. We can dig deeper into the process in a later article.
+
+## Harmony in Chaos: the method
+You might be familiar with how players discussing Restricted Lists quickly descend into chaos. Shinjo Longface should be banned! But if he’s banned so should be Sword of Fire and Thunder, cause they do kinda the same. Of course not, the costs are different, and without the Sword the Wasp Clan stands no chance against Hall of the Mountain King! And so it goes… pure chaos. To set a common ground we defined Goals and Principles. We quote them:
+
+> We aim to make L5R a game that is competitive for rewarding game mastery and fun by fostering player expression in deckbuilding and play styles.
+>
+> We will do this by maintaining a set of rule restrictions that builds on top of the published game. These rules will keep the game balanced between clans and play styles, and will block dominant strategies.
+>
+> To have a base structure for our decisions we have a few principles.
+>
+> ### The Principles
+> 1. **All Players Play the Game**: fun and competition happens when all players are engaged and making decisions in the game. Players should be allowed to choose their actions, attacks, and defenses. Choosing the lesser of two evils is preferable to not choosing at all.
+>
+> 2. **All Victory Conditions Are Created Equal**: L5R comes out of the box with 3 Victory Conditions, they should all be respected equally. There is no single “default” condition; honor, dishonor, and conquest are the default conditions.
+>
+> 3. **The Game is Played Through Conflicts**: conflicts are the core mechanism of interaction. Players must care about conflicts to achieve their goals.
+>
+> 4. **Rewards Are Balanced by Cost and Risk**: it is expected to have rewards more valuable than the cost/risk paid for them, but this profit must not be exaggerated. “Luck of the draw” is not considered a risk.
+>
+> 5. **Balance is required**: Following the other principles to a tee would lead to greater imbalance between the clans due to the card pool available. Clan balance is an important parameter when dealing with cards, as all seven clans should be able to be competitive and enjoy playing the game.
+>
+> 6. **Private Cards Are Targeted First**: in deck-building some cards are Public by being neutral or having lower influence cost, other cards are Private by being locked to a clan, locked to a keyword, high influence cost, or other such restrictions. Private cards are a larger source of clan inequality, so they must be targeted before public cards.
+>
+> 7. **Cards Want to Be Played**: if choosing between removing one card or a set of two cards, remove one card. The fewer cards in binders the better.
+
+The principles are guidelines, not absolute rules. They follow a common pattern: principles 1-3 are the core principles, breaking them tends to point towards bans; principles 4-5 get into more subjective grounds, breaking them tends to point towards restrictions; principles 6-7 discipline the approaches to any measures taken.
+
+## Imperial Gift: what we take from the Imperial Law
+The Imperial Law are the balance patches published by Fantasy Flight Games. It was developed through the years, and we accept many of its learnings. The Jade Edict embraces the banlist decisions from the Imperial Law. A lot has changed in the game, but the banned cards still have good reasons to be banned, and the majority of them attack directly the Principles we have established. Cards like Isawa Tadaka and Guest of Honor attack the Principle #1, other cards like Policy Debate and Charge! Are huge offenders of Principle #4. There’s one single banned card that receives the Jade pardon and returns to play.
+
+### Bayushi Liar: out of the banlist
+It is clear that Bayushi Liar is a strong card, but it is nowhere near the company it had in the banlist. The game currently boasts plenty of powerful 1-cost characters, and even some good 0-cost characters; once Forged Edict is banned, not even his 0 Glory draws that much attention. _Bayushi Liar is free, and rejoins the army of shadows; ready to accidentally break Upholding Authority, as he’s prone to do every now and then._
+
+## Purge the Unclean: the fate of Rally
+Rally was an interesting concept, but it had multiple detrimental effects to the game. 
+
+1. It stymied deck diversity by effectively reducing deck sizes through making a subset of cards automatic inclusions. 
+
+2. It also greatly increased deck consistency, which is not a problem in itself, but was a problem due to how much it was increased and to how free this increase was. Such high consistency has a multiplicative effect on clan imbalance; as each powerful dynasty card becomes even more powerful, the power difference between clans with strong dynasty cards and those without those is blown beyond proportion. 
+
+3. Already with all that in account, a rally card is the only type of card that generates value, without even being played, making its reward-cost relation unacceptable.
+
+Action had to be taken in regards to Rally cards, and as discussed before, this project started at a time when L5R was a living LCG. We started work with a clear line of no erratas and no rule changes. Our initial decision was to ban all Rally cards. Then L5R was discontinued. To not waste the work already done, to not rush jigoku development beyond what’s reasonable, to not risk disturbing the balance we had found so far in our work: we decided to keep all Rally cards banned on the initial release of the Jade Edict. We have the intention of bringing the Rally cards back to the game later, after we figure out how to approach that.
+
+Last, in line with the ban on Rally, we are banning City of the Rich Frog. We take that decision to keep the systemic integrity of our approach, but we recognize this card is different from Rally. City of the Rich might come back later.
+
+## Purify the Soul: what cards are free again?
+As mentioned above, Bayushi Liar is not a banned card in the Jade Edict. But there are other cards who were considered fit to be released from the Imperial Law.
+
+- **Iron Mine**: due to changes made to Reprieve and Rebuild (explained below), it became fair to release the Mine. Iron Mine is released.
+
+- **Doji Diplomat**: due to changes to Wealth of the Crane and City of the Rich Frog (explained below), it became fair to release the Diplomat. Doji Diplomat is released.
+
+- **Pathfinder’s Blade**: when pathfinder’s blade was restricted that type of effect was extraordinary and Niten Master readying through it was also extraordinary. The time when those effects were beyond the curve is long gone. PFB is a strong card, but acceptable nowadays. Pathfinder’s Blade is released.
+
+- **Bayushi Kachiko 2**: Kachiko is a powerful character, but she’s balanced by it’s high cost in a clan without the good access to discounts and that quite often runs an expensive conflict deck. Additionally, her ability is matchup conditional, as it relies on the opponent’s decklist and on good timing for its use. All considered, she is a good card, but not extraordinary. Bayushi Kachiko 2 is released.
+
+## Ebb and Flow: what follows from Rally removal
+
+The removal of Rally affects the overall balance of the game in a few ways that need to be addressed. The main change is that with Season of War out of the game, holdings in general receive a slight buff, as it becomes harder to remove them from play. The lack of Rally also pushes a few cards that were already powerful beyond the acceptable threshold.
+
+- **The Imperial Palace**: the palace has been shadow banned for a long time. As our Restricted List is shorter than the one in the Imperial Law, shadowbans don’t really work here. The Imperial Palace hits Principle #3 by outweighing the interaction of conflicts with claiming the favor, it also hits Principle #4 by doing it in an inexpensive way. The Imperial Palace is banned.
+
+- **The Proving Grounds**, **Shadowed Village**: both holdings are big hits on Principle #4, as they provide too much card draw for too little cost and effort. Shadowed Village has an added issue with Principle #6, by being Scorpion exclusive. The Proving Ground and Shadowed Village are banned.
+
+- **Rebuild**, **Wealth of the Crane**: both these were already powerful, but with these systematic changes they go even beyond. They are attacks on Principle #4. Wealth of the Crane also gets targeted due to Principle #7, by removing Wealth we avoid having to touch multiple other cards in Crane’s holding package. Rebuild and Wealth of the Crane are banned.
+
+- **Logistics**, **Talisman of the Sun**: the core approach to dealing with holdings is to break the province where they sit. Both these cards pervert that and attack principle #3, by bringing cheap evasion maneuvers to holdings and negating this important function of conflicts. Logistics is aggravated on Principle #4, as its value is extraordinary through holding stacking, card advantage generation, and when combined with Exposed Courtyard it even generates card advantage. Talisman also attacks Principle #1, by removing the core element of player agency in deciding which provinces they plan to attack; by staying in play, Talisman can disturb that principle time and time again, while having a low cost. Logistics and Talisman of the Sun are banned.
+
+- **Governor’s Spy**: in true scorpion fashion, Spy reverses the rules of the game, by making holdings a liability. Governor’s Spy is a strong attack on Principle #1, by removing the player’s agency in choosing which characters to buy. The power of Spy to force bad purchases is already powerful, but it gets even more powerful when combined with Yogo Junzo, and the risk of getting rigidly locked on a bad flip is increased by the removal of Rally. By hitting at such a key aspect of the game, Governor’s Spy is banned.
+
+## Dispensing Justice: cards that exclude players
+
+The Principle #1 is the highest principle in the game. Taking away player agency is a grave issue.
+
+- **Daidoji Netsu**: character sacrifices is key to multiple strategies in the game, including Clan Strongholds and large parts of Crab’s clan identity. The blanket, unrestricted effect of Netsu is a warping effect that freezes whole strategies in an attack to Principle #1, and it does that with few requirements and a low cost going against Principle #4. Daidoji Netsu is banned.
+
+- **Cunning Magistrate**: taking part in conflicts is a cornerstone of the game. Cunning Magistrate blanket denial is too powerful and easily accessible. Its effect is way more powerful than merited by its price tag, attacking the Principle #4. Additionally, the Magistrate is a Scorpion exclusive, making it a target for removal. Cunning Magistrate is banned.
+
+- **Kakita Toshimoko**: similar to Cunning Magistrate, Toshimoko twists the way conflicts work in too powerful a way. By turning conflicts into a single duel, Toshimoko goes against Principle #3. In light of the need to balance Crane down, and combined with it being a Crane exclusive card these facts make him a target for removal. Kakita Toshimoko is banned.
+
+- **Display of Power**: the core way to fight back against dishonor is through attacking with the correct ring effects. Display of Power takes that away, denying the player’s agency in resolving the ring effects they won, which goes against Principle #1. It also raises Dishonor above the other win conditions, by making it inescapable in too easy a way, going against Principle #2. Last, it attacks Principle #3 by making ring effects accessible to the loser, reducing the importance of conflict victories when it comes to Dishonor strategies. It might be the largest offender of core Principles. Display of Power is banned.
+
+## The Price of War: too much for too little
+
+A few cards are big offenders of the Principle #4, providing too much profit for their costs.
+
+- **Shameful Display**: the omnipresent void province, providing huge recurrent value. Quite the first conflict in a game hits Shameful and sends the game down into a snowballing effect. No province in the game offers a recurrent effect this big, commonly representing a permanent 3 Skill swing + 2 honor trade. The high power of Shameful is exacerbated by the fact its activation is immediate, it’s almost impossible to “scout” for it. Shameful Display is banned.
+
+- **Common Cause**: readying any character, by sacrificing a resource that is already spent, and often getting extra profit on top of that sacrifice is way too much profit for a card with so few restrictions. Common Cause is banned.
+
+- **Daidoji Uji 2**: even with the high cost of 5 fate, the value provided by Uji far outweighs its cost. On top of its use for extraordinary value plays, Uji enables Crane to easily perform any past and future combos, breeding a design trap for game balance. With Principle #7 in mind, removing Uji allows multiple other cards to stay free. Daidoji Uji 2 is banned.
+
+- **Shoshi ni Kie**: following on Common Cause footsteps, SnK turns cost into profit and profit into more profit. The province reveal is usually an extra effect being resolved out of this completely free event. With Principle #7 in mind, removing SnK allows multiple other cards to stay free. Shoshi ni Kie is banned.
+
+- **Ki Alignment**: drawing multiple cards for free is already good, but the combination of low restrictions and chaining effect provided by Ki Alignment is unparalleled in the game, and it gets exacerbated when Togashi Acolyte and Void Fist are put into the picture. With Principle #7 in mind, removing Ki Alignment allows multiple other cards to stay free. Ki Alignment is banned.
+
+- **Tactical Ingenuity**: filtered draw is a powerful ability, but in TI that ability compounds with itself to become overpowering. Each activation of TI increases the odds of drawing another TI, and acts as a tool of its own perpetuation by drawing recharge effects to its holder. Additionally it makes Lion’s recurrence engine ultra efficient by providing cheap reusable shuffling. With Principle #7 in mind, removing TI allows multiple other cards to stay free. Tactical Alignment is banned.
+
+- **Embrace the Void**: the economy generated by EtV used to be balanced by the time it took to collect that fate, as usually one fate was gained per round. With the release of Yogo Junzo and multiple Maho effects, EtV becomes hyper efficient. With Principle #7 in mind, removing EtV allows multiple other cards to stay free. Embrace the Void is banned.
+
+- **Duty**: the usage of Duty during the draw phase when on low honor makes this card problematic. Using Duty to gain 1 honor and draw 5 cards is way too much. We recognize the card has other uses, but in practice the majority of time it is used for the draw trick. Duty is banned.
+
+- **Dispatch to Nowhere**: when it was released Dispatch as already a powerful card, turning games around without even the cost of a card from hand. The arrival of Dire increases its relevance. The arrival of Yogo Junzo moves it beyond the acceptable. Dispatch to Nowhere is banned.
+
+## Shielded by Fire: the rebirth of the Phoenix
+Remember 2017? Those were the days… we would walk outside, meet our friends, go to the local game store and buy a Dynasty Pack. Its name was Fate Has No Secrets. And in it was the destiny of the Phoenix: Consumed by Five Fires.
+
+For most of this game’s life, the Phoenix has operated on top of Consumed by Five Fires, this one massive spell that solved hard problems. It’s been a core tool of the Phoenix repertoire. The Jade Edict changes that.
+
+This Edict slows down the game again, and while it is not as slow as it used to be,  it’s slow enough to prop Phoenix up as the unstoppable powerhouse it used to be. Phoenix needed at least some balancing down, and what better way to do it than with a card that has lead to polarizing matchups and deckbuilding staleness. For much of the games lifespan, CbFF was considered to be a necessary evil, acting as a boogeyman that keeps tower decks in check. The added attachment hate in the course of the games history as well as the introduction of Yogo Junzo leads us to believe that such strategies will not be as prevalent in the future.
+
+In this context, and with Principle #7 in mind, **Consumed by Five Fires is banned**.
+
+## Contest of Power: balancing the game
+
+Consumed by Five Fires was the only card banned solely for balance reasons. We move on now to the cards that got Restricted for the Principle#5, balance.
+
+- **Keeper Initiate**: the keepers provide free value in multiple ways. Favor control, protection from unopposed honor loss, economic advantage as a cheap conflict initiator to take fate off of rings, sacrifice fodder, bow fodder, swarm support… and more. For a cost that frequently is no real cost. Revealing multiple keepers early in the game has a warping effect. They are a clear attack on principle #4, but at the same time they are neutral cards, available to all clans which reduces their impact according to principle #6. Adding a deckbuilding cost to them is enough to balance them out. Keeper Initiate is restricted.
+
+- **Way of the Crab**: it is part of L5R’s folklore the fateful death of Shiba Tsukune, at the hands of Hida Guardian. Since the game first began Way of the Crab is a ghost haunting boards everywhere. The blowout potential and the asymmetrical power of WotC is evident, and it becomes highlighted later in the game when cards like Gallant Quartermaster were released, enabling WotC to be profitable murder. Being crabbed was never so warping. WotC is a grave attack on Principle #4, but it is an important piece of the Crab sacrifice machine, so in name of the Principle #5 banning it would be too much. Way of the Crab is restricted.
+
+- **Kaiu Envoy**: in any other clan Envoy would be good, in Crab it is beyond good. Starting a lucky game with multiple Envoys is an incredible powerful start, but a single Envoy is already impactful. It is one of the best sacrifice fodder in the game, but its payback doesn’t even require a sacrifice, increasing its reliability. To balance out Principles #4 and #5, the Edict takes a moderate stance. Kaiu Envoy is restricted.
+
+- **Kuni Laboratory**: the last piece of the Crab restricted pack, Kuni Labs provide exceptional value when properly timed. It’s interaction with Apprentice Engineer can remove its cost, and with the slight powerup received by all holdings it becomes even more powerful. The combined restriction of Labs and Envoy brings Crab’s power level to a balanced level. Kuni Laboratory is restricted.
+
+- **Reprieve**: as far as saves go, this isn't the worst in terms of power. But in this case the ease of use of splashing Reprieve is a problem, the card costs too little in terms of Influence. That becomes a problem when plenty of powerful Dire characters are available, and it’s even more of a problem if it comes together with Pathfinder’s Blade. Adding a deckbuilding cost to Reprieve balances it’s opportunity cost as a splash option. Iron Mine is released to avoid punishing Crab by other’s sins. Reprieve is restricted.
+
+- **Sacred Sanctuary** + **Seal of the Dragon**: the classic dragon play is to run Sacred Sanctuary as a stronghold province, regardless of having a Monk based deck or not. Sanctuary is a very powerful stronghold province, balanced by its dependence on Monks. That dependency gets voided by Seal of the Dragon, which turns Sanctuary into a strong aggression towards Principle #4. By restricting both those cards, Sacred Sanctuary gains back a real restriction while Seal stays open to non-Monk decks who want to experiment with Kihos. Sacred Sanctuary and Seal of the Dragon are restricted.
+
+- **Mirumoto’s Fury**: a solid card in dragon, with high reward-to-cost. It becomes a problem due to its low influence cost, making it too accessible in a splash option that is already one of the best. Testing also shows that the combination of Fury + In Search of Self + A Fate Worse than death creates an excessive amount of defensive tools, going against Principle #3. That is a problem either on Scorpion or Dragon decks. To address both concerns, Mirumoto’s Fury is restricted.
+
+- **Spectral Visitation**: almost as swingy as Shameful Display, Visitation brings a huge attack on Principle #4, as it often brings a free 4-5 cost character, while filling the discard pile for Kitsu Spiritcaller. By being single use and being exposed to more choices in province denial, it becomes a manageable card in the environment after receiving some deckbuilding cost. Spectral Visitation is restricted.
+
+- **Exposed Courtyard**: providing reusable card advantage, and the extraordinary effect of event recurrence, for no cost Courtyard is a clear offender of Principle #4. Its power is decreased by the removal of cards that used to provide it easy protection, like Logistics and Talisman of the Sun. Without those cards as a shield, Courtyard can be dealt with, making it acceptable. But still, its power is beyond the curve, deserving some deckbuilding cost to be added to it. Exposed Courtyard is restricted.
+
+- **Chronicler of Conquests**: providing reusable honor gain, in an extremely low cost package, Chronicler is an attack against the Principle #4. By having an easy requirement, and not really depending on how the conflicts develop, Chronicler also rubs against Principle #3. It is tolerated due to its importance for the honor running game, but it must be balanced by receiving a deckbuilding cost. Also, by keeping it separate from Exposed Courtyard, the low bid strategy will have to fight on more fair grounds in terms of card advantage. Chronicler of Conquests is restricted.
+
+- **Sanpukku Seido**: the near unbreakable province of the Phoenix gives the clan an easy time at defending conflict. By changing the conflict type to an attribute that few decks can manipulate, this province indirectly attacks both Principle #1 and Principle #3. Its redeeming quality is not being allowed as a stronghold province. Seido reinforces the strong defensive game of the Phoenix, and to balance it out it must gain some deckbuilding cost. By being separated from and Mirumoto’s Fury, A Fate Worse than Death it impacts the defensive options phoenix has, by being separated from Reprieve it impacts the long game sustainability of the defensive strategy. Sanpukku Seido is restricted.
+
+- **Bayushi Shoju 2**: Shoju brings extraordinary powers to the table. His favor denial indirectly attacks principle #3, and the same Principle gets attacked again by his ability to add a clock to the dishonor game, regardless of conflict results. Shoju is balanced though by its high cost, which helps limit its clock potential. He is also balanced on the risk of the Scorpion player to get dishonored by Shoju instead! With Beautiful Entertainer and Duty banned, the Scorpion runs a real risk when bringing Shoju into play. Risk that exacerbated by his dash Military, meaning an openness to getting unopposed honor loss. The balancing factors around Shoju help make him acceptable, but it’s not enough and he still requires extra costs. Bayushi Shoju 2 is restricted.
+
+- **Alibi Artist**: providing a great reward for staying on lower honor, Alibi is an extremely solid card. He provides a much valuable breathing room for the Scorpion when the game goes on low bids, by maintaining card advantage against all odds. With the return of Bayushi Liar, Alibi needs some balancing. By keeping him away from Shoju 2 this strong synergy is broken, while by keeping it away from other powerful conflict cards reduces its overall utility to an acceptable level. Alibi Artist is restricted.
+
+- **Shadow Step**: an incredibly versatile card, Step is a swiss army knife in Scorpion repertoire. It becomes attachment hate with Disciple of Shinsei, it becomes a ready effect without requirements, it can clean yourself out of negative attachments, and it can trigger plenty of other combos going from Bayushi Miyako to Khanbulak Benefactor. The card does way too much, and it needs an additional cost. Shadow Step is restricted.
+
+- **A Fate Worse than Death**: the power of AFWTD is remarkable, and its defensive use is an attack on Principle #3 by packing province defense and two ring effects on a single card. The card is balanced though by its high cost, making it a tricky card to play without the coverage of Forged Edict. What tips the scale towards adding an extra cost to it is its use as an oppressive package with Mirumoto’s Fury and optionally In Search of Self. A Fate Worse than Death is restricted.
+
+- **Mark of Shame**: there was a time when Mark of Shame was beyond the acceptable by itself, but the release of Prepare for War and the release of other reusable dishonor tools in the game on Crab and Scorpion would seem to make Mark of Shame acceptable again. Unfortunately Mark of Shame + A Fate Worse than Death are too powerful together, especially as a splash package, so they must remain separate. Mark of Shame is restricted.
+
+- **Shinjo Yasamura**: the long lasting covert offered by Yasamura is a powerful ability that becomes aggravated when combined with a variety of ready effects allowing this cheap character to often deny two or more defenders. All covert is in a certain degree an offense to Principle #1, but Yasamuras version of it is over the top. The same low cost that makes it powerful, makes it vulnerable to Assassination, but that is often too little too late. To add an extra cost to this powerful character, Yasamura is restricted.
+
+- **Utaku Tetsuko**: building on top of Yasamura, Tetsuko brings flashbacks of Guest of Honor. The blanket taxation, combined with the multiple ready effects available to Unicorn make Tetsuko a major offense against Principle #1. It must be said Tetsuko would not be tolerated in other clans, she only gets a pass on Unicorn due to Principle #5 as she is an important piece in what makes Unicorn competitive. But she must be kept apart from Yasamura, as their combined effect is multiplicative. Utaku Tetsuko is restricted.
+
+- **Khanbulak Benefactor**: it is a high cost character, but the value that comes out of it is multiple times more. It provides valuable Political numbers to Unicorn, while bringing blanket discounts that can be combined in case more than one Benefactor is around. When combined with the available ready effects or movement, it warps Unicorns economy completely. It’s use with Prepared Ambush expands that warping effect to the dynasty side. On top of that character recurrence like Forebear’s Echoes makes it all even cheaper, and enables additional card draws - bear in mind the cards being drawn cost 1 less. The impact of Benefactor is so disproportionate, we don’t even need to add Shadow Step to the equation. This card is the largest attack against Principle #4 in the game, but it is Unicorn so it gets a pass. Khanbulak Benefactor is restricted.
+
+- **Scouted Terrain**: by providing what is essentially an alternative win condition, Scouted attacks Principle #2. Still, the approach is still through conflicts, even if it is a single conflict, getting some protection from Principle #3. Additionally, with the game slowed down a bit, the impact of Scouted’s shortcut is increased. Scouted Terrain ends up quite close to a ban, but it gets a pass for now, when it gets increased costs in deckbuilding. Scouted Terrain is restricted.
+
+## Patroling the Roads: cards on the watchlist
+The following cards are being monitored and might be targeted in the future:
+- Slovenly Scavenger
+- Elegant Tessen
+- Hantei XXXVIII
+- Upholding Authority
+- Pathfinder’s Blade
+- Scouted Terrain
+
+## Servitors of Stone: roll the credits
+
+This Jade Edict was elaborated in appreciation for the game and respect for the community, by the Magistrate Team:
+
+> DirtyDeeds#9918, jmart#6576, Notfragile#7860, Siri#3954, Usagi#0328
+
+With the invaluable playtest and council of the Councillors, who offered 91% of approval in support of releasing this Edict to Open Beta:
+- Crab: Enegon#8434
+- Crab: Daigotsu Kaikou#8609
+- Crane: Zarzucket#6853
+- Crane: Erik#2965
+- Dragon: Arash#3491
+- Dragon: Komhl#7296
+- Lion: Holyfield#7822
+- Lion: Handsome_Dan#8310
+- Phoenix: Algahra#6531
+- Phoenix: fleepa0#6482
+- Scorpion: Poogin#4183
+- Scorpion: ZELOisBack#2201
+- Unicorn: Nomadic#4292
+- Unicorn: Yoritomo Alex#4401
+
+We also counted with playtest of the Ronin:
+- Enrique_#6541
+- suburbaknght#4584
