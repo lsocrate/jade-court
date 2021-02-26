@@ -177,12 +177,8 @@ The following cards are being monitored and might be targeted in the future:
 To facilitate, here goes the collected list of banned and restricted cards. If you skipped to the end, [we still recommend reading the article above later](#jade-edict-beta).
 
 <table>
-<colgroup>
-<col style="width:50%"/>
-<col style="width:50%"/>
-</colgroup>
 <tr>
-<td>
+<td style="width:50%;vertical-align: top;"/>
 <strong>Rally purge</strong>
 <ul>
 <li>Recalled Defenses</li>
@@ -231,7 +227,7 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
 <li>Forged Edict</li>
 </ul>
 </td>
-<td>
+<td style="width:50%;vertical-align: top;"/>
 <strong>Neutral</strong>
 
 <ul>
@@ -297,7 +293,7 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
 </td>
 </tr>
 <tr>
-<td>
+<td style="width:50%;vertical-align: top;"/>
 <strong>Restricted Cards</strong>
 
 <strong>Neutral</strong>
@@ -355,7 +351,7 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
 <li>Scouted Terrain</li>
 </ul>
 </td>
-<td>
+<td style="width:50%;vertical-align: top;"/>
 <strong>Liberated</strong>
 
 <strong>Crab</strong>
