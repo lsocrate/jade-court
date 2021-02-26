@@ -1,5 +1,7 @@
 ## Introducing: The Jade Court
 
+> TLDR: [here's the latest Jade Edict](edict.md)
+
 Hello Rokugan Citizens, this is an announcement that we had not planned to publish yet, but in light of the news that revolutionized our hobby of choice recently, with the importance it carries for all of us, we feel in need to do it already, so let us introduce you to the Jade Court.
 
 The Jade Court is an effort that was born a couple months ago within the group of the Discord League Admins. Trying to channel the general player feelings about the state of the game already back then, and with the blessing and desire from the design team to see how the game could be like with a more limited pool of cards, and how the players would react to playing such a format, the Jade Court was formed.
