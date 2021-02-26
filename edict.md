@@ -3,6 +3,8 @@ permalink: /edict
 ---
 # Jade Edict Beta
 
+> TLDR: [f you just want to see the final list go here](#a-time-for-action-take-the-list-into-play)
+
 It was a cold winter day when the Jade Court started, January 5th. As far as we knew, L5R was alive and had a bright future ahead. Our aim was to create a parallel list, nothing much. Alas, the Empire has changed, and this effort acquired a larger importance than we expected. We kept the process, we kept the goals, and we kept the momentum. But enough history, let us move to the list. We can dig deeper into the process in a later article.
 
 ## Harmony in Chaos: the method
@@ -175,100 +177,123 @@ The following cards are being monitored and might be targeted in the future:
 To facilitate, here goes the collected list of banned and restricted cards. If you skipped to the end, we still recommend reading the article above later.
 
 <table>
+<colgroup>
+<col style="width:50%"/>
+<col style="width:50%"/>
+</colgroup>
 <tr>
 <td>
 <strong>Rally purge</strong>
-
-- Recalled Defenses
-- Akodo Reserve Company
-- A Season of War
-- Butcher of the Fallen
-- Cunning Negotiator
-- Daidoji Marketplace
-- Twilight Rider
-- Student of the Tao
-- Scholar of the Old Rempet
-- Veteran of Toshi Ranbo
-- Stoic Rival
-- Hidden Mountain Pass
-- Ikoma Tsanuri 2
-- Celebrated Renown
-- Shadow Stalker
-- Open Window
-- Ride at Dawn
-- Mercenary Company
-- Pious Guardian
-- Master of Many Lifetimes
-- Honored Veterans
-- Beautiful Entertainer
-- Contested Countryside
-- Shiba Pureheart
-- Sudden Tempest
+<ul>
+<li>Recalled Defenses</li>
+<li>Akodo Reserve Company</li>
+<li>A Season of War</li>
+<li>Butcher of the Fallen</li>
+<li>Cunning Negotiator</li>
+<li>Daidoji Marketplace</li>
+<li>Twilight Rider</li>
+<li>Student of the Tao</li>
+<li>Scholar of the Old Rempet</li>
+<li>Veteran of Toshi Ranbo</li>
+<li>Stoic Rival</li>
+<li>Hidden Mountain Pass</li>
+<li>Ikoma Tsanuri 2</li>
+<li>Celebrated Renown</li>
+<li>Shadow Stalker</li>
+<li>Open Window</li>
+<li>Ride at Dawn</li>
+<li>Mercenary Company</li>
+<li>Pious Guardian</li>
+<li>Master of Many Lifetimes</li>
+<li>Honored Veterans</li>
+<li>Beautiful Entertainer</li>
+<li>Contested Countryside</li>
+<li>Shiba Pureheart</li>
+<li>Sudden Tempest</li>
+</ul>
 
 <strong>Imperial Law Bans</strong>
-- Guest of Honor (Core Set, 51)
-- Spyglass (Core Set, 193)
-- Charge! (Core Set, 210)
-- Isawa Tadaka 1
-- Karada District (Imperial Cycle, 4)
-- Policy Debate (Imperial Cycle, 40)
-- Master of Gisei Toshi
-- Kanjo District (Imperial Cycle, 108)
-- Jurōjin’s Curse (Elemental Cycle, 55)
-- Hidden Moon Dōjō
-- Magistrate Station
-- Mirumoto Daishō
-- Gateway to Meido
-- Lost Papers
-- Forged Edict
+<ul>
+<li>Guest of Honor (Core Set, 51)</li>
+<li>Spyglass (Core Set, 193)</li>
+<li>Charge! (Core Set, 210)</li>
+<li>Isawa Tadaka 1</li>
+<li>Karada District (Imperial Cycle, 4)</li>
+<li>Policy Debate (Imperial Cycle, 40)</li>
+<li>Master of Gisei Toshi</li>
+<li>Kanjo District (Imperial Cycle, 108)</li>
+<li>Jurōjin’s Curse (Elemental Cycle, 55)</li>
+<li>Hidden Moon Dōjō</li>
+<li>Magistrate Station</li>
+<li>Mirumoto Daishō</li>
+<li>Gateway to Meido</li>
+<li>Lost Papers</li>
+<li>Forged Edict</li>
+</ul>
 </td>
 <td>
 <strong>Neutral</strong>
 
-- City of the Rich Frog
-- The Imperial Palace
-- Proving Grounds
-- Shameful Display
+<ul>
+<li>City of the Rich Frog</li>
+<li>The Imperial Palace</li>
+<li>Proving Grounds</li>
+<li>Shameful Display</li>
+</ul>
 
 <strong>Crab</strong>
 
-- Rebuild
-- Common Cause
+<ul>
+<li>Rebuild</li>
+<li>Common Cause</li>
+</ul>
 
 <strong>Crane</strong>
 
-- Kakita Toshimoko
-- Daidoji Netsu
-- Daidoji Uji 2
-- The Wealth of the Crane
+<ul>
+<li>Kakita Toshimoko</li>
+<li>Daidoji Netsu</li>
+<li>Daidoji Uji 2</li>
+<li>The Wealth of the Crane</li>
+</ul>
 
 <strong>Dragon</strong>
 
-- Ki Alignment
-- Shoshi ni Kie
+<ul>
+<li>Ki Alignment</li>
+<li>Shoshi ni Kie</li>
+</ul>
 
 <strong>Lion</strong>
 
-- Logistics
-- Tactical Ingenuity
+<ul>
+<li>Logistics</li>
+<li>Tactical Ingenuity</li>
+</ul>
 
 <strong>Phoenix</strong>
 
-- Embrace the Void
-- Display of Power
-- Consumed by Five Fires
+<ul>
+<li>Embrace the Void</li>
+<li>Display of Power</li>
+<li>Consumed by Five Fires</li>
+</ul>
 
 <strong>Scorpion</strong>
 
-- Duty
-- Cunning Magistrate
-- Dispatch to Nowhere
-- Shadowed Village
-- Governor's Spy
+<ul>
+<li>Duty</li>
+<li>Cunning Magistrate</li>
+<li>Dispatch to Nowhere</li>
+<li>Shadowed Village</li>
+<li>Governor's Spy</li>
+</ul>
 
 <strong>Unicorn</strong>
 
-- Talisman of the Sun
+<ul>
+<li>Talisman of the Sun</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -277,72 +302,97 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
 
 <strong>Neutral</strong>
 
-- Keeper Initiate
+<ul>
+<li>Keeper Initiate</li>
+</ul>
 
 <strong>Crab</strong>
 
-- Kaiu Envoy
-- Kuni Laboratory
-- Way of the Crab
-- Reprieve
+<ul>
+<li>Kaiu Envoy</li>
+<li>Kuni Laboratory</li>
+<li>Way of the Crab</li>
+<li>Reprieve</li>
+</ul>
 
 <strong>Dragon</strong>
 
-- Sacred Sanctuary
-- Seal of the Dragon
-- Mirumoto’s Fury
+<ul>
+<li>Sacred Sanctuary</li>
+<li>Seal of the Dragon</li>
+<li>Mirumoto’s Fury</li>
+</ul>
 
 <strong>Lion</strong>
 
-- Spectral Visitation
-- Exposed Courtyard
-- Chronicler of Conquests
+<ul>
+<li>Spectral Visitation</li>
+<li>Exposed Courtyard</li>
+<li>Chronicler of Conquests</li>
+</ul>
 
 <strong>Phoenix</strong>
 
-- Sanpuku Seido
+<ul>
+<li>Sanpuku Seido</li>
+</ul>
 
 <strong>Scorpion</strong>
 
-- Bayushi Shoju 2
-- Alibi Artist
-- Shadow Step
-- Mark of Shame
-- A Fate Worse than Death
+<ul>
+<li>Bayushi Shoju 2</li>
+<li>Alibi Artist</li>
+<li>Shadow Step</li>
+<li>Mark of Shame</li>
+<li>A Fate Worse than Death</li>
+</ul>
 
 <strong>Unicorn</strong>
-- Khanbulak Benefactor
-- Utaku Tetsuko
-- Shinjo Yasamura
-- Scouted Terrain
+<ul>
+<li>Khanbulak Benefactor</li>
+<li>Utaku Tetsuko</li>
+<li>Shinjo Yasamura</li>
+<li>Scouted Terrain</li>
+</ul>
 </td>
 <td>
 <strong>Liberated</strong>
 
 <strong>Crab</strong>
-- Pathfinder’s Blade
-- Iron Mine
+<ul>
+<li>Pathfinder’s Blade</li>
+<li>Iron Mine</li>
+</ul>
 
 <strong>Crane</strong>
 
-- Doji Diplomat
+<ul>
+<li>Doji Diplomat</li>
+</ul>
 
 <strong>Dragon</strong>
 
-- Agasha Swordsmith
+<ul>
+<li>Agasha Swordsmith</li>
+</ul>
+
 <strong>Scorpion</strong>
 
-- Bayushi Liar
-- Bayushi Kachiko 2
+<ul>
+<li>Bayushi Liar</li>
+<li>Bayushi Kachiko 2</li>
+</ul>
 
 <strong>Watchlist</strong>
 
-- Slovenly Scavenger
-- Elegant Tessen
-- Hantei XXXVIII
-- Upholding Authority
-- Pathfinder’s Blade
-- Scouted Terrain
+<ul>
+<li>Slovenly Scavenger</li>
+<li>Elegant Tessen</li>
+<li>Hantei XXXVIII</li>
+<li>Upholding Authority</li>
+<li>Pathfinder’s Blade</li>
+<li>Scouted Terrain</li>
+</ul>
 
 </td>
 </tr>
