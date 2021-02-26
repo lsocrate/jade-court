@@ -193,6 +193,6 @@ With the invaluable playtest and council of the Councillors, who offered 91% of 
 - Unicorn: Nomadic#4292
 - Unicorn: Yoritomo Alex#4401
 
-We also counted with playtest of the Ronin:
+We also counted on the playtest of the Ronin:
 - Enrique_#6541
 - suburbaknght#4584
