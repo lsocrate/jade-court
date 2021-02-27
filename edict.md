@@ -50,7 +50,7 @@ Rally was an interesting concept, but it had multiple detrimental effects to the
 
 Action had to be taken in regards to Rally cards, and as discussed before, this project started at a time when L5R was a living LCG. We started work with a clear line of no erratas and no rule changes. Our initial decision was to ban all Rally cards. Then L5R was discontinued. To not waste the work already done, to not rush jigoku development beyond what’s reasonable, to not risk disturbing the balance we had found so far in our work: we decided to keep all Rally cards banned on the initial release of the Jade Edict. We have the intention of bringing the Rally cards back to the game later, after we figure out how to approach that.
 
-Last, in line with the ban on Rally, we are banning City of the Rich Frog. We take that decision to keep the systemic integrity of our approach, but we recognize this card is different from Rally. City of the Rich might come back later.
+Last, in line with the ban on Rally, we are banning City of the Rich Frog. We take that decision to keep the systemic integrity of our approach, but we recognize that this card is different from Rally. City of the Rich Frog might come back later.
 
 ## Purify the Soul: what cards are free again?
 As mentioned above, Bayushi Liar is not a banned card in the Jade Edict. But there are other cards who were considered fit to be released from the Imperial Law.
@@ -93,7 +93,7 @@ The Principle #1 is the highest principle in the game. Taking away player agency
 
 A few cards are big offenders of the Principle #4, providing too much profit for their costs.
 
-- **Shameful Display**: the omnipresent void province, providing huge recurrent value. Quite the first conflict in a game hits Shameful and sends the game down into a snowballing effect. No province in the game offers a recurrent effect this big, commonly representing a permanent 3 Skill swing + 2 honor trade. The high power of Shameful is exacerbated by the fact its activation is immediate, it’s almost impossible to “scout” for it. Shameful Display is banned.
+- **Shameful Display**: the omnipresent void province, providing huge recurrent value. Quite often the first conflict in a game hits Shameful and sends the game down into a snowballing effect. No province in the game offers a recurrent effect this big, commonly representing a permanent 3 Skill swing + 2 honor trade. The high power of Shameful is exacerbated by the fact its activation is immediate, it’s almost impossible to “scout” for it. Shameful Display is banned.
 
 - **Common Cause**: readying any character, by sacrificing a resource that is already spent, and often getting extra profit on top of that sacrifice is way too much profit for a card with so few restrictions. Common Cause is banned.
 
@@ -154,7 +154,7 @@ Consumed by Five Fires was the only card banned solely for balance reasons. We m
 
 - **A Fate Worse than Death**: the power of AFWTD is remarkable, and its defensive use is an attack on Principle #3 by packing province defense and two ring effects on a single card. The card is balanced though by its high cost, making it a tricky card to play without the coverage of Forged Edict. What tips the scale towards adding an extra cost to it is its use as an oppressive package with Mirumoto’s Fury and optionally In Search of Self. A Fate Worse than Death is restricted.
 
-- **Mark of Shame**: the effect provided by Mark of Shame has powerful since its release. The efficiency in turning an honor gain into an honor loss is a hit against Principle #4. Its utility as setup for removal effects, make easy prey of targets who might have avoided conflicts to stay alive, being a hit against Principle #3.  Also when combined with A Fate Worse than Death they form a powerful package, and a can be very strong splash package, so they must remain separate. Mark of Shame is restricted.
+- **Mark of Shame**: the effect provided by Mark of Shame has been powerful since its release. The efficiency in turning an honor gain into an honor loss is a hit against Principle #4. Its utility as setup for removal effects, make easy prey of targets who might have avoided conflicts to stay alive, being a hit against Principle #3.  Also when combined with A Fate Worse than Death they form a powerful package, and a can be very strong splash package, so they must remain separate. Mark of Shame is restricted.
 
 - **Shinjo Yasamura**: the long lasting covert offered by Yasamura is a powerful ability that becomes aggravated when combined with a variety of ready effects allowing this cheap character to often deny two or more defenders. All covert is in a certain degree an offense to Principle #1, but Yasamuras version of it is over the top. The same low cost that makes it powerful, makes it vulnerable to Assassination, but that is often too little too late. To add an extra cost to this powerful character, Yasamura is restricted.
 
@@ -177,9 +177,11 @@ The following cards are being monitored and might be targeted in the future:
 To facilitate, here goes the collected list of banned and restricted cards. If you skipped to the end, [we still recommend reading the article above later](#jade-edict-beta).
 
 <table>
-    <tr> <th colspan="2"> Banned cards<th> 
+    <tr> 
+        <th colspan="2"> Banned cards</th> 
+    </tr>
     <tr>
-        <td style="width:50%;vertical-align: top;"/>
+        <td style="width:50%;vertical-align: top;">
             <strong>Rally purge</strong>
             <ul>
                 <li>Recalled Defenses</li>
@@ -208,7 +210,6 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Shiba Pureheart</li>
                 <li>Sudden Tempest</li>
             </ul>
-
             <strong>Imperial Law Bans</strong>
             <ul>
                 <li>Guest of Honor (Core Set, 51)</li>
@@ -227,56 +228,44 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Lost Papers</li>
                 <li>Forged Edict</li>
             </ul>
-        <td style="width:50%;vertical-align: top;"/>
+        </td>
+        <td style="width:50%;vertical-align: top;">
             <strong>Neutral</strong>
-
             <ul>
                 <li>City of the Rich Frog</li>
                 <li>The Imperial Palace</li>
                 <li>Proving Grounds</li>
                 <li>Shameful Display</li>
             </ul>
-
             <strong>Crab</strong>
-
             <ul>
                 <li>Rebuild</li>
                 <li>Common Cause</li>
             </ul>
-
             <strong>Crane</strong>
-
             <ul>
                 <li>Kakita Toshimoko</li>
                 <li>Daidoji Netsu</li>
                 <li>Daidoji Uji 2</li>
                 <li>The Wealth of the Crane</li>
             </ul>
-
             <strong>Dragon</strong>
-
             <ul>
                 <li>Ki Alignment</li>
                 <li>Shoshi ni Kie</li>
             </ul>
-
             <strong>Lion</strong>
-
             <ul>
                 <li>Logistics</li>
                 <li>Tactical Ingenuity</li>
             </ul>
-
             <strong>Phoenix</strong>
-
             <ul>
                 <li>Embrace the Void</li>
                 <li>Display of Power</li>
                 <li>Consumed by Five Fires</li>
             </ul>
-
             <strong>Scorpion</strong>
-
             <ul>
                 <li>Duty</li>
                 <li>Cunning Magistrate</li>
@@ -284,56 +273,43 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Shadowed Village</li>
                 <li>Governor's Spy</li>
             </ul>
-
             <strong>Unicorn</strong>
-
             <ul>
                 <li>Talisman of the Sun</li>
             </ul>
+        </td>
     </tr>
     <tr>
-        <td style="width:50%;vertical-align: top;"/>
+        <td style="width:50%;vertical-align: top;">
             <strong>Restricted Cards</strong>
-
             <strong>Neutral</strong>
-
             <ul>
                 <li>Keeper Initiate</li>
             </ul>
-
             <strong>Crab</strong>
-
             <ul>
                 <li>Kaiu Envoy</li>
                 <li>Kuni Laboratory</li>
                 <li>Way of the Crab</li>
                 <li>Reprieve</li>
             </ul>
-
             <strong>Dragon</strong>
-
             <ul>
                 <li>Sacred Sanctuary</li>
                 <li>Seal of the Dragon</li>
                 <li>Mirumoto’s Fury</li>
             </ul>
-
             <strong>Lion</strong>
-
             <ul>
                 <li>Spectral Visitation</li>
                 <li>Exposed Courtyard</li>
                 <li>Chronicler of Conquests</li>
             </ul>
-
             <strong>Phoenix</strong>
-
             <ul>
                 <li>Sanpuku Seido</li>
             </ul>
-
             <strong>Scorpion</strong>
-
             <ul>
                 <li>Bayushi Shoju 2</li>
                 <li>Alibi Artist</li>
@@ -341,7 +317,6 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Mark of Shame</li>
                 <li>A Fate Worse than Death</li>
             </ul>
-
             <strong>Unicorn</strong>
             <ul>
                 <li>Khanbulak Benefactor</li>
@@ -349,37 +324,28 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Shinjo Yasamura</li>
                 <li>Scouted Terrain</li>
             </ul>
-
-        <td style="width:50%;vertical-align: top;"/>
+        </td>
+        <td style="width:50%;vertical-align: top;">
             <strong>Liberated</strong>
-
             <strong>Crab</strong>
             <ul>
                 <li>Pathfinder’s Blade</li>
                 <li>Iron Mine</li>
             </ul>
-
             <strong>Crane</strong>
-
             <ul>
                 <li>Doji Diplomat</li>
             </ul>
-
             <strong>Dragon</strong>
-
             <ul>
                 <li>Agasha Swordsmith</li>
             </ul>
-
             <strong>Scorpion</strong>
-
             <ul>
                 <li>Bayushi Liar</li>
                 <li>Bayushi Kachiko 2</li>
             </ul>
-
             <strong>Watchlist</strong>
-
             <ul>
                 <li>Slovenly Scavenger</li>
                 <li>Elegant Tessen</li>
@@ -388,6 +354,7 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Pathfinder’s Blade</li>
                 <li>Scouted Terrain</li>
             </ul>
+        </td>
     </tr>
 </table>
 
