@@ -338,10 +338,6 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
             <ul>
                 <li>Doji Diplomat</li>
             </ul>
-            <strong>Dragon</strong>
-            <ul>
-                <li>Agasha Swordsmith</li>
-            </ul>
             <strong>Scorpion</strong>
             <ul>
                 <li>Bayushi Liar</li>
