@@ -226,7 +226,6 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Lost Papers</li>
                 <li>Forged Edict</li>
             </ul>
-        </td>
         <td style="width:50%;vertical-align: top;"/>
             <strong>Neutral</strong>
 
@@ -290,7 +289,6 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
             <ul>
                 <li>Talisman of the Sun</li>
             </ul>
-        </td>
     </tr>
     <tr>
         <td style="width:50%;vertical-align: top;"/>
@@ -350,7 +348,7 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Shinjo Yasamura</li>
                 <li>Scouted Terrain</li>
             </ul>
-        </td>
+
         <td style="width:50%;vertical-align: top;"/>
             <strong>Liberated</strong>
 
@@ -389,7 +387,6 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
                 <li>Pathfinder’s Blade</li>
                 <li>Scouted Terrain</li>
             </ul>
-        </td>
     </tr>
 </table>
 
