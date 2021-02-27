@@ -282,6 +282,7 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
     <tr>
         <td style="width:50%;vertical-align: top;">
             <strong>Restricted Cards</strong>
+            <br/>
             <strong>Neutral</strong>
             <ul>
                 <li>Keeper Initiate</li>
@@ -327,6 +328,7 @@ To facilitate, here goes the collected list of banned and restricted cards. If y
         </td>
         <td style="width:50%;vertical-align: top;">
             <strong>Liberated</strong>
+            <br/>
             <strong>Crab</strong>
             <ul>
                 <li>Pathfinder’s Blade</li>
