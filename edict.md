@@ -19,11 +19,11 @@ Having 26 cards out of the game due to one bad word on them was not a long-term 
 
 A few months after Rally got released, the cracks on it already started to show. Debates about powerful cards that on top of its power had rally. Others raised how the different quality of rally cards between clans was yet another large source of imbalance as, by their nature as auto-include, the clans with the weaker cards lost so much more than if they were just another normal bad card. Plus issues with damaging deck diversity, or bringing exaggerated consistency, as [we discussed previously](edict-2021-02.md).
 
-We considered multiple approaches, and ultimately settled on the simplest most straightforward approach: establishing a ruling the overwrites the definition of Rally.
+We considered multiple approaches, and ultimately settled on the simplest most straightforward approach: establishing a ruling that overwrites the definition of Rally.
 
 Rally becomes just a blank keyword. The cards are not errataed themselves, the ruling changes directly the definition of the Rally. Rally is a blank keyword. When a card with Rally is revealed, absolutely nothing different happens. When a card with rally is included in a deck, absolutely nothing different happens.
 
-It follows the spirit Principle #7: attack the source of an issue, and leave other cards (and other rules) clean and untouched.
+It follows the spirit Principle #7: attack the source of an issue, and leave other cards (and other rules) clean and untouched. Other approaches were considered: some failed by making the rules more complicated, others failed making deck building more complicated. We chose simplicity and efficiency: removing Rally solves the problem, without creating new problems.
 
 There are plenty of rally cards that are solid enough on its own to see play. We expect the majority of them to find decks.
 
