@@ -1,47 +1,73 @@
 ---
 permalink: /edict
-date: 2015-03-23
+date: 2021-04-10
 ---
 
-# Jade Edict Beta Update 1
+# Jade Edict: Aromatic Aonori
 
 > TLDR: [if you just want to see the final list go here](#edict-of-judgment-the-compiled-list)
 
-It's been a few weeks since we released the Jade Edict Beta. Since then many games were played, and we received a lot of feedback. We thank all who took time to play and even more those who took the time to talk about their perceptions on the game. We release now the first update on the Jade Edict Beta. We still consider the Edict to be in beta test, and in the coming weeks we plan to release an updated edict focused on balance adjustments. But we already had enough testing and enough time to find an approach to fix a shortcoming in the first beta release.
+We would like to thank the community for participating in the Discord League Open Beta, and also for offering feedback through our surveys, or just by great discussions on Discord. This effort is meaningful because of you.
 
-We're talking about Rally. Our first step was to ban all cards that had the keyword. It was a shortcut we took to be able to release our project faster. We understood that would be a weakness in the initial release, but between news of the game's fate and leaks of the list we were studying, our hand was forced to action. The shortcut served its purpose, but a long lasting road must be put in place, and we must stick to our defined Principles, namely Principle #7:
+The Discord League Open Beta is now advancing to the eliminatory rounds. We analyzed the collected data, watched and played many games, and now it comes time for an update to the Jade Edict. As we approach the beginning of the Clan War, one of the greatest community events, we are excited to get the environment as balanced and competitive as possible.
 
-> **Cards Want to Be Played**: if choosing between removing one card or a set of two cards, remove one card. The fewer cards in binders the better.
+## A Quest Abandoned: dealing with insta-wins
 
-Having 26 cards out of the game due to one bad word on them was not a long-term strategy. Now we fix that.
+Throughout L5R’s history a few decks were capable of setting up combos to win instantly, or semi instantly. Some of the most infamous decks doing that were Phoenix Enlightenment, or Crab Gateway to Meido. While those strategies are uncommon in L5R, they profit from the game framework making the setup for combos quite easy; card draw is abundant and cancel effects are quite limited. Those strategies also go against the 3 main Principles of the Jade Edict:
 
-## Back to the Front: the end of Rally
+> **#1 All Players Play the Game** gets attacked by how uninteractive those strategies are.
+>
+> **#2 All Victory Conditions Are Created Equal** suffers indirectly, as those strategies act in practice almost as alternative win conditions, or directly in the case of Enlightenment.
+>
+> **#3 The Game is Played Through Conflicts** gets attacked directly as those strategies tend to not care about the outcome of conflicts
 
-A few months after Rally got released, the cracks on it already started to show. Debates about powerful cards that on top of its power had rally. Others raised how the different quality of rally cards between clans was yet another large source of imbalance as, by their nature as auto-include, the clans with the weaker cards lost so much more than if they were just another normal bad card. Plus issues with damaging deck diversity, or bringing exaggerated consistency, as [we discussed previously](edict-2021-02.md).
+With those in mind we take actions against those kinds of strategies.
 
-We considered multiple approaches, and ultimately settled on the simplest most straightforward approach: establishing a ruling that overwrites the definition of Rally.
+### Enlightenment
 
-Rally becomes just a blank keyword. The cards are not errataed themselves, the ruling changes directly the definition of the Rally. Rally is a blank keyword. When a card with Rally is revealed, absolutely nothing different happens. When a card with rally is included in a deck, absolutely nothing different happens.
+Enlightenment introduces an alternative Victory Condition to the game, going directly against Principle #2. Enlightenment is banned.
 
-It follows the spirit Principle #7: attack the source of an issue, and leave other cards (and other rules) clean and untouched. Other approaches were considered: some failed by making the rules more complicated, others failed making deck building more complicated. We chose simplicity and efficiency: removing Rally solves the problem, without creating new problems.
+### Festival for the Fortunes & Glorious Victory
 
-There are plenty of rally cards that are solid enough on its own to see play. We expect the majority of them to find decks.
+By honoring characters in mass, Festival for the Fortunes can be combined with cards like Cavalry Reserves or Force of the River to generate huge amounts of honor with high efficiency and low interactivity. The same kind of play could be done with a little extra work by using Glorious Victory. This shortcutting into an Honor Victory leaves little room for counterplay. Festival for the Fortunes and Glorious Victory are banned.
 
-## Field of Broken Swords: not all Rally comes back
+### Scouted Terrain
 
-Unfortunately, a few Rally cards are still too powerful, even without rally.
+Scouted Terrain enables decks to ignore a large part of the game and the conflict flow, while piling up resources for the perfect conflict at the Stronghold. The setup usually builds up a conflict that leaves no chance to the opponent to interact through a combination of Covert and abilities to send defenders home. Scouted Terrain strategies go strongly against the Principles #1 and #3. Scouted Terrain is banned.
 
-### Lost Papers
+## Balance in Nothingness: restraining the Phoenix
 
-The Imperial Law bans Lost Papers. We wholeheartedly agree with that. Even without rally, the effect is still too powerful for its cost. It attacks the Principle #4 Rewards Are Balanced by Cost and Risk. Lost Papers stays banned.
+The introduction of the Jade Edict left Phoenix in a superior position. Phoenix has a variety of solid cards and strategies, and traditionally excels in the long game. With the game slowing down by one or two rounds, that advantage becomes even more impactful. This gave rise to powerful Tower strategies out of Fire role phoenix; the combination of honorable high glory characters for the stats, a variety of readying effects in spells+disguise, and the potential to remove declaw other towers using Sanguine Mastery make Phoenix Towers impressive - the version with Heroic Resolve is possibly the strongest Tower build in the game.
 
-### Ikoma Tsanuri
+### Forgotten Library
 
-Tsanuri's ability is very strong considering its solid stats and low cost. Also, there are multiple cheap ways to ready her: Elegant Tessen, In Service to My Lord, Hayaken no Shiro, plus whatever "harder" ways the Lion player chooses to use. Those elements combined, almost guarantee the non-existence of Provinces when Tsanuri hits the table. Anti-province effects are more common now, but Tsanuri's efficiency at that is still unparalleled and overwhelming. It attacks the Principle #4 Rewards Are Balanced by Cost and Risk, and it also demands action due to Principle #5 Balance is Required as it is clear that Lion is still a very powerful clan in Jade Edict (more now with Honored Veterans). Ikoma Tsanuri 2 stays banned.
+Always a reliable source of value, empowering Phoenix’s late game, further empowered by the easily defensive provinces available to Phoenix. Forgotten Library draws the line of how powerful a holding can be before it becomes too much, the reason we take action against it due to Principle #5 “Balance is Required”, as filtered by Principle #6 “Private cards are targeted first”. Forgotten Library is restricted.
 
-### Contested Countryside
+### Secluded Shrine
 
-Still a very powerful card, even after losing Rally. It affecting multiple conflicts in the same round makes its payoff very large, raising a flag on Principle #4. Further, by being a Battlefield it gives extra value for the Lion Clan, raising a flag on Principle #5. All considered, its power can be balanced with an extra deckbuilding cost. Contested Countryside is restricted.
+Having a subtle effect, Secluded Shrine is no big deal on a first look, in practice it is a powerful enabler for Phoenix synergies. Combined with Solemn Scholar it empowers Phoenix’s stall tactics by providing very efficient defensive ability. With Katana of Fire it becomes cheap skill bonuses. Closer to the issue, it is a strong enabler for Heroic Resolve, removing the tempo cost of that attachment. Due to Principle #5 “Balance is Required”, a deckbuilding cost is added to it. Secluded Shrine is restricted.
+
+## The Legion's Might: a small touch on Lion
+
+After more testing and observing more games, we identify Lion as needing some adjustment. Lion’s Pride Paragon draws attention due to its powerful ability: it is a character with good stats, participating in each conflict, and in the end still helping you claim the favor with its 3 Glory. That is a powerful character, but it finds some balance by depending on the Dire keyword for all of that. Except Lion can keep it in play perpetually with a combination of Called to War and Exposed Courtyard.
+
+What seems on a first look to be an issue with the Paragon, turns out in fact to be yet another symptom of Called to War. Called to War is often a completely free save for a character, and when combined with Exposed Courtyard it gets to be reused multiple times generating immense value. Marked as a 3 Influence card, it is in practice a Lion exclusive, as it is a hard card to splash. Its power affronts the Principle #4 “Rewards are balanced by cost and risk” as its reward is unmatched in its cost, by being hard to splash it becomes a good target as put out by Principle #6 “Private cards are targeted first”. Called to War is restricted.
+
+## Return to Your Feet
+
+In alignment with the Principle #7 “Cards want to be played”, we make an effort to bring back some cards that went out.
+
+### Adepts of Mighty Pokku: Ki Alignment & Slovenly Scavenger
+
+In an effort to open up the possibilities for Dragon monks we revisit Ki Alignment. The card expresses well the flurry of blows and acrobatics performed by the Togashi. And while it is a very powerful effect, it becomes less impactful once the recursion of effects gets under control. In the past, Ki Alignment was combined with the goblin Slovenly Scavenger to easily recur all the kihos just played. In alignment with the Principle #7 “Cards want to be played” we make an effort to bring back Ki Alignment: to balance its powerful ability we add a deckbuilding cost, keeping it apart from cards like Sacred Sanctuary thus making it a strategic fork instead of pure addition. We also make changes to keep it apart from the easy recursion provided by Slovenly Scavenger. Ki Alignment is restricted. Slovenly Scavenger is restricted.
+
+### Embrace the Void
+
+After some more observation and testing it became evident that Embrace the Void is ok to return to the game. It is still a very powerful card, and can give good returns if built around it with support from the new Maho effects or Yogo Junzo, so it still requires to be restricted. We believe Embrace the Void might find a home in Maho heavy decks. Embrace the Void is restricted.
+
+### Spectral Visitation
+
+Due to the removal of Shoshi ni Kie, and to a larger availability of province cancelling, the power of Spectral Visitation is diminished. Also, as we restrict Called to War, the power balance also shifts making Spectral Visitation fully acceptable. Spectral Visitation is free.
 
 ## Edict of Judgment: the compiled list
 
@@ -54,111 +80,121 @@ Still a very powerful card, even after losing Rally. It affecting multiple confl
         <td style="width:50%;vertical-align: top;">
             <strong>Neutral</strong>
             <ul>
-                <li>Charge! (Core Set, 210)</li>
-                <li>Policy Debate (Imperial Cycle, 40)</li>
-                <li>Gateway to Meido (Inheritance Cycle, 3)</li>
-                <li style="background-color: #f08080;">Lost Papers</li>
+                <li>Charge!</li>
                 <li>City of the Rich Frog</li>
-                <li>The Imperial Palace</li>
+                <li style="background-color: #80f087;">Enlightenment</li>
+                <li>Gateway to Meido</li>
+                <li>Lost Papers</li>
+                <li>Policy Debate</li>
                 <li>Proving Grounds</li>
                 <li>Shameful Display</li>
+                <li>The Imperial Palace</li>
             </ul>
             <strong>Crab</strong>
             <ul>
-                <li>Karada District (Imperial Cycle, 4)</li>
-                <li>Rebuild</li>
                 <li>Common Cause</li>
+                <li>Karada District</li>
+                <li>Rebuild</li>
             </ul>
             <strong>Crane</strong>
             <ul>
-                <li>Guest of Honor (Core Set, 51)</li>
-                <li>Magistrate Station</li>
-                <li>Kakita Toshimoko</li>
                 <li>Daidoji Netsu</li>
                 <li>Daidoji Uji 2</li>
+                <li style="background-color: #80f087;">Festival for the Fortunes</li>
+                <li>Guest of Honor</li>
+                <li>Kakita Toshimoko</li>
+                <li>Magistrate Station</li>
                 <li>The Wealth of the Crane</li>
             </ul>
             <strong>Dragon</strong>
             <ul>
+                <li style="color: #e61a10;text-decoration: line-through;">Ki Alignment</li>
                 <li>Mirumoto Daishō</li>
-                <li>Ki Alignment</li>
                 <li>Shoshi ni Kie</li>
             </ul>
             <strong>Lion</strong>
             <ul>
+                <li style="background-color: #80f087;">Glorious Victory</li>
+                <li>Ikoma Tsanuri 2</li>
                 <li>Logistics</li>
                 <li>Tactical Ingenuity</li>
-                <li style="background-color: #f08080;">Ikoma Tsanuri 2</li>
             </ul>
             <strong>Phoenix</strong>
             <ul>
-                <li>Isawa Tadaka 1</li>
-                <li>Master of Gisei Toshi</li>
-                <li>Kanjo District (Imperial Cycle, 108)</li>
-                <li>Jurōjin’s Curse (Elemental Cycle, 55)</li>
-                <li>Embrace the Void</li>
-                <li>Display of Power</li>
                 <li>Consumed by Five Fires</li>
+                <li>Display of Power</li>
+                <li style="color: #e61a10;text-decoration: line-through;">Embrace the Void</li>
+                <li>Isawa Tadaka 1</li>
+                <li>Jurōjin’s Curse</li>
+                <li>Kanjo District</li>
+                <li>Master of Gisei Toshi</li>
             </ul>
             <strong>Scorpion</strong>
             <ul>
-                <li>Hidden Moon Dōjō</li>
-                <li>Forged Edict</li>
-                <li>Duty</li>
                 <li>Cunning Magistrate</li>
                 <li>Dispatch to Nowhere</li>
-                <li>Shadowed Village</li>
+                <li>Duty</li>
+                <li>Forged Edict</li>
                 <li>Governor's Spy</li>
+                <li>Hidden Moon Dōjō</li>
+                <li>Shadowed Village</li>
             </ul>
             <strong>Unicorn</strong>
             <ul>
-                <li>Spyglass (Core Set, 193)</li>
+                <li style="background-color: #80f087;">Scouted Terrain</li>
+                <li>Spyglass</li>
                 <li>Talisman of the Sun</li>
             </ul>
         </td>
         <td style="width:50%;vertical-align: top;">
             <strong>Neutral</strong>
             <ul>
+                <li>Contested Countryside</li>
                 <li>Keeper Initiate</li>
-                <li style="background-color: #ffd700;">Contested Countryside</li>
+                <li style="background-color: #80f087;">Slovenly Scavenger</li>
             </ul>
             <strong>Crab</strong>
             <ul>
                 <li>Kaiu Envoy</li>
                 <li>Kuni Laboratory</li>
-                <li>Way of the Crab</li>
                 <li>Reprieve</li>
+                <li>Way of the Crab</li>
             </ul>
             <strong>Dragon</strong>
             <ul>
+                <li style="background-color: #80f087;">Ki Alignment</li>
+                <li>Mirumoto’s Fury</li>
                 <li>Sacred Sanctuary</li>
                 <li>Seal of the Dragon</li>
-                <li>Mirumoto’s Fury</li>
             </ul>
             <strong>Lion</strong>
             <ul>
-                <li>Spectral Visitation</li>
-                <li>Exposed Courtyard</li>
+                <li style="background-color: #80f087;">Called to War</li>
                 <li>Chronicler of Conquests</li>
+                <li>Exposed Courtyard</li>
+                <li style="color: #e61a10;text-decoration: line-through;">Spectral Visitation</li>
             </ul>
             <strong>Phoenix</strong>
             <ul>
+                <li style="background-color: #80f087;">Embrace the Void</li>
+                <li style="background-color: #80f087;">Forgotten Library</li>
                 <li>Sanpuku Seido</li>
+                <li style="background-color: #80f087;">Secluded Shrine</li>
             </ul>
             <strong>Scorpion</strong>
             <ul>
-                <li>Bayushi Shoju 2</li>
-                <li>Alibi Artist</li>
-                <li>Shadow Step</li>
-                <li>Mark of Shame</li>
                 <li>A Fate Worse than Death</li>
+                <li>Alibi Artist</li>
+                <li>Bayushi Shoju 2</li>
+                <li>Mark of Shame</li>
+                <li>Shadow Step</li>
             </ul>
             <strong>Unicorn</strong>
             <ul>
                 <li>Khanbulak Benefactor</li>
-                <li>Utaku Tetsuko</li>
+                <li style="color: #e61a10;text-decoration: line-through;">Scouted Terrain</li>
                 <li>Shinjo Yasamura</li>
-                <li>Scouted Terrain</li>
+                <li>Utaku Tetsuko</li>
             </ul>
         </td>
     </tr>
@@ -170,7 +206,7 @@ This Jade Edict was elaborated in appreciation for the game and respect for the 
 
 > DirtyDeeds#9918, jmart#6576, Notfragile#7860, Siri#3954, Usagi#0328, zarzuckett#6853
 
-With the invaluable playtest and council of the Councillors:
+With the invaluable playtest and council of the Councillors, who offered 100% of approval in support of releasing this Edict:
 
 - Crab: Enegon#8434
 - Crab: Daigotsu Kaikou#8609
