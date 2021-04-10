@@ -71,7 +71,7 @@ Due to the removal of Shoshi ni Kie, and to a larger availability of province ca
 
 ## Edict of Judgment: the compiled list
 
-<table>
+<table style="display: table;">
     <tr> 
         <th>Banned cards</th>
         <th>Restricted cards</th> 
