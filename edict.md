@@ -15,11 +15,11 @@ The Discord League Open Beta is now advancing to the eliminatory rounds. We anal
 
 Throughout L5R’s history a few decks were capable of setting up combos to win instantly, or semi instantly. Some of the most infamous decks doing that were Phoenix Enlightenment, or Crab Gateway to Meido. While those strategies are uncommon in L5R, they profit from the game framework making the setup for combos quite easy; card draw is abundant and cancel effects are quite limited. Those strategies also go against the 3 main Principles of the Jade Edict:
 
-> **#1 All Players Play the Game** gets attacked by how uninteractive those strategies are.
+> 1. **All Players Play the Game**: fun and competition happens when all players are engaged and making decisions in the game. Players should be allowed to choose their actions, attacks, and defenses. Choosing the lesser of two evils is preferable to not choosing at all.
 >
-> **#2 All Victory Conditions Are Created Equal** suffers indirectly, as those strategies act in practice almost as alternative win conditions, or directly in the case of Enlightenment.
+> 2. **All Victory Conditions Are Created Equal**: L5R comes out of the box with 3 Victory Conditions, they should all be respected equally. There is no single “default” condition; honor, dishonor, and conquest are the default conditions.
 >
-> **#3 The Game is Played Through Conflicts** gets attacked directly as those strategies tend to not care about the outcome of conflicts
+> 3. **The Game is Played Through Conflicts**: conflicts are the core mechanism of interaction. Players must care about conflicts to achieve their goals.
 
 With those in mind we take actions against those kinds of strategies.
 
