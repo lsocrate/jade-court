@@ -2,17 +2,24 @@
 
 > TLDR: [here's the latest Jade Edict](edict.md)
 
+### Edicts
+
+- [Current edict: the whole Temptation Cycle](edict.md)
+- [2021-04-10 Edict: instawins, Phoenix balance, some Lion](edict-2021-04.md)
+- [2021-03-23: Beta Update, Rally returns](edict-2021-03.md)
+- [2021-02-25: Jade Edict Beta Released](edict-2021-02.md)
+
 Hello Rokugan Citizens, this is an announcement that we had not planned to publish yet, but in light of the news that revolutionized our hobby of choice recently, with the importance it carries for all of us, we feel in need to do it already, so let us introduce you to the Jade Court.
 
 The Jade Court is an effort that was born a couple months ago within the group of the Discord League Admins. Trying to channel the general player feelings about the state of the game already back then, and with the blessing and desire from the design team to see how the game could be like with a more limited pool of cards, and how the players would react to playing such a format, the Jade Court was formed.
 
 The original members of this first small group were:
+
 - **Jmart - Joel Martin**: Current head of the L5R Global Discord Events team (Discord League Admins Group)
 - **Siri - Luiz Sócrate**: Discord League programmer and head of the Court management, ways of working and governance models
 - **Notfragile - Panos Xantopoulos**: Manager of the Greek Discord WC team
 - **Usagi - Adrián Marín**: Manager of the Spanish Discord WC team
 - **DirtyDeeds - Oskar Bladh**: Game Designer and Content Creator
-
 
 The first intent of the group after assembling it’s core members was to assess the current known problems of the game right now, and try to find a way to generate a custom Restricted and Banned List that could assess those problems, and influence Design decisions for future Imperial Laws.
 
@@ -31,7 +38,6 @@ After creating a first list, the initial members seeked out to add a group of re
 
 > “The Jade Edict environment manages to capture the magic of L5R by emphasizing its best parts and cutting the worst without holding back. It has me more excited to play than I have been in a long time!”  
 > **Daidoji Erik** - 2018 World Champion
-
 
 The Jade Edict list is currently in Closed Beta Stage and gearing up to open it to more public with the Beta Stage, including an special event under the Discord League umbrella. So expect more news about this soon. We believed from the beginning the first step towards “fixing” the game was addressing its current problems and that’s what we are focused on right now.
 
