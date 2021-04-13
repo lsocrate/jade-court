@@ -65,7 +65,6 @@ With the release of Adorned Temple, we take it in consideration together with Sh
             </ul>
             <strong>Dragon</strong>
             <ul>
-                <li>Ki Alignment</li>
                 <li>Mirumoto Daishō</li>
                 <li>Shoshi ni Kie</li>
             </ul>
@@ -81,7 +80,6 @@ With the release of Adorned Temple, we take it in consideration together with Sh
                 <li style="background-color: #80f087;">Calling the Storm</li>
                 <li>Consumed by Five Fires</li>
                 <li>Display of Power</li>
-                <li>Embrace the Void</li>
                 <li>Isawa Tadaka 1</li>
                 <li>Jurōjin’s Curse</li>
                 <li>Kanjo District</li>
