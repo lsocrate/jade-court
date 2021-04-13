@@ -1,6 +1,6 @@
 ---
 permalink: /edict
-date: 2021-04-13
+date: 2021-04-14
 ---
 
 # Jade Edict: Big Bentō
@@ -31,7 +31,7 @@ With the release of Adorned Temple, we take it in consideration together with Sh
 <table style="display: table;">
     <tr> 
         <th>Banned cards</th>
-        <th>Restricted cards</th> 
+        <th>Restricted cards</th>
     </tr>
     <tr>
         <td style="width:50%;vertical-align: top;">
