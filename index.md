@@ -4,7 +4,7 @@
 
 ### Edicts
 
-- [Current edict: the whole Temptation Cycle](edict.md)
+- **[2021-04-14: Current: the whole Temptation Cycle](edict.md)**
 - [2021-04-10 Edict: instawins, Phoenix balance, some Lion](edict-2021-04.md)
 - [2021-03-23: Beta Update, Rally returns](edict-2021-03.md)
 - [2021-02-25: Jade Edict Beta Released](edict-2021-02.md)
