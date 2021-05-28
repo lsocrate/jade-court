@@ -1,30 +1,29 @@
 ---
 permalink: /edict
-date: 2021-04-14
+date: 2021-05-28
 ---
 
-# Jade Edict: Big Bentō
+# Jade Edict: Under Fu Leng's Shadow
 
 > TLDR: [if you just want to see the final list go here](#edict-of-judgment-the-compiled-list)
 
-With Coils of Power and Peace at Any Cost released on Jigoku, we issue now a short update to address
-cards in those packs. This update comes in time for the Clan War tournament.
+With Under Fu Leng's Shadow released on Jigoku, we issue now a short update to address cards in those packs. This update comes in time for the top cut of the Clan War tournament.
 
-## Courting Trouble: stopping the storm
+## A Common Enemy: Ignoring the call of the Shadowlands
 
-Since we laid eyes on Calling the Storm we knew that card was trouble. If on one hand, the rules as written make the card literaly impossible to play; on the other hand, if the card somehow finds a way to be played it's a recipe for all kinds of degenerate play. Calling the Storm costs you 0 fate, do draw infinite cards: this is not an exageration, even the discarded cards can be drawn again due to how the game framework deals with decks running out of cards. The card is a flagrant attack against the Principle #4. Calling the Storm is banned.
+Accursed Summoning is both an extremely strong and a versatile card.  Its uses can ranging from a consistent pumped-up charge (bringing in 9 military skill for 1 fate), to being able to summon into play a Kansen for double rings, practically getting a kami and an extra +2/+2 stats for just 1 fate (in an environment where Kami effects have already been proven to be playable at 2 fate as a cost,  without the extra flexibility that Accursed Summoning brings).  In addition, the summoned creatures are not removed from play, and can be saved by crab effects, Akodo Kaede, and others.  Keeping these around  can further break the card and we expect that allowing it to be played  will make games revolve entirely around it.  In addition to the raw power, there are also many worrisome interactions to consider (Exposed Courtyard + Kansen, for example). For being so flexible, strong, and easily exploitable in a myriad of ways, Accursed Summoning is banned.
 
-## Battle of Drowned Honor: mass honoring effects
+## Breathing In: Repeated Abilities
 
-With the full knowledge of Temptation Cycle we must revisit a recent decision. With the release of Phoenix Tattoo and Fu Sui Temple we have even more ways of massive amounts of characters with a single card. Those kinds of effects usually lead to insta-wins, as [we discussed previously](edict-2021-04.md). As it is made clear that honoring characters _en masse_ is a design direction and not just an accident, we must change our approach to that.
+The sad truth about dragon is that, even when designing the edict, it's borderline impossible to get them to a sweet spot balance-wise.  The main reason behind this is that when Dragon sees a Mitsu on turn 1/2 and when it doesn’t see a Mitsu, the power level of the clan is wildly different.  Centered Breath is the sort of card that exacerbates this issue, and ensures that on the games that you do see Mitsu while having this in your deck, you are most likely going to win them.  After some practice games where Centered Breath and Swell of Seafoam were run together, it felt like dragon was the one and only viable deck for the top cut and the deckbuilding question to answer was just “which version of dragon is better for the mirror”.  We understand that based on the clan war winrates, Dragon needs some help, and we think Swell of Seafoam alone should be able to give them enough of a boost to propel their winrate up to more acceptable levels without being the end all be all deck decision.  The other issue with Centered Breath is how it operates with Mitsu1 and Togashi Acolyte, allowing players to trigger Mitsu1 5 or more times in a single conflict, forcing their opponent to sit there passing through a dozen triggers while getting slammed with Hurricane Punch, Swell of Seafoam, and Void Fist (and then doing it all again next turn because the cards all get re-drawn).  For being way too above the curve power level wise, as well as promoting a "solitaire style" negative play experience, Centered Breath is banned.
 
-In accordance with Principle #6 "Cards want to be played" we must try to deal with problems by affecting the fewer cards possible. So we must strike at the big enabler of such strategies, while releasing the secondary pieces. Force of the River has been used to generate large quantities of characters, who get honored by some mass honor effect, and as they leave play at the end of the conflict they make the honor gain imediate, not even allowing the opponent time to try to control the effect of to try to win the game before the honor gain happens. Force of the River is an interesting card, but in practice its main use was in those kinds of combos, seldom seeing play outside those decks. To keep as many cards playable as possible, we target it instead of the other cards. Force of the River is banned. Glorious Victory is liberated.
+## Not the way we want: Neutral Stands
 
-At the moment, we believe Festival for the Fortunes still needs to stay banned, to avoid making honor swarm out of Crane too powerful. With the release of Fu Sui Temple, we see that as a risk. The position on Festival for the Fortunes will be revisited in the future.
+Way of the Warrior is a stand at 0, and that alone makes it borderline banworthy.  In addition to this, however, it also makes the character it stands immune to bows, dishonor, and send-homes, which can invalidate a lot of strategies that are used to answer towers.  Furthermore, it heavily incentivizes playing a tower deck with Unicorn splash, which is something the community as a whole has grown pretty bored of facing.  Both for the power level of the card itself and the playstyle it promotes, Way of the Warrior is banned.
 
-## One Action, Two Strikes: the temple and the village
+## Dancing with the Animals: Province Stacking
 
-With the release of Adorned Temple, we take it in consideration together with Shadowed Village. Both holdings are similar by providing large rewards for its costs. After more testing and consideration we believe those powerful cards can find balanced play, by gaining a deckbuilding restriction. Making them restricted, will keep them playable without being a simple insert into existing decks, but instead requiring careful tought and some focused build around them due to the extra deckbuilding cost. This is done to keep in line with Principle #7 "Cards want to be played", while keeping the balancing Principles #4 and #5 in account. Shadowed Village and Adorned Temple are restricted.
+Dance of Chikusho-do is, in theory, a nice card; it costs 2 fate, the cards come in facedown, and it only gets cards on unbroken provinces.  However, most of the Wealth of the Cranes you have seen been resolved, had been costed at 1-2 fate as well; defending early is already something that decks want to do, and delaying the payoff by 1 turn doesn't change that you can draw 8 dynasty cards for 2 fate.  Province stacking can completely break the game in a multitude of ways; via holding stacking, farming free fate off unique personalities that you got multiple copies off, or creating a combo win condition, or just amassing a large amount of value.  If this card is allowed, we think that multiple builds will attempt and succeed at breaking it, either out of Crane (for similar reason to Wealth), Dragon (combining Audience Chamber with Adorned Temple) or maybe even Phoenix itself.  For these reasons, Dance of Chikusho-do is banned.
 
 ## Edict of Judgment: the compiled list
 
@@ -37,6 +36,7 @@ With the release of Adorned Temple, we take it in consideration together with Sh
         <td style="width:50%;vertical-align: top;">
             <strong>Neutral</strong>
             <ul>
+                <li style="background-color: #80f087;">Accursed Summoning</li>
                 <li>Charge!</li>
                 <li>City of the Rich Frog</li>
                 <li>Enlightenment</li>
@@ -46,6 +46,7 @@ With the release of Adorned Temple, we take it in consideration together with Sh
                 <li>Proving Grounds</li>
                 <li>Shameful Display</li>
                 <li>The Imperial Palace</li>
+                <li style="background-color: #80f087;">Way of the Warrior</li>
             </ul>
             <strong>Crab</strong>
             <ul>
@@ -65,20 +66,22 @@ With the release of Adorned Temple, we take it in consideration together with Sh
             </ul>
             <strong>Dragon</strong>
             <ul>
+                <li style="background-color: #80f087;">Centered Breath</li>
                 <li>Mirumoto Daishō</li>
                 <li>Shoshi ni Kie</li>
             </ul>
             <strong>Lion</strong>
             <ul>
-                <li style="color: #e61a10;text-decoration: line-through;">Glorious Victory</li>
+                <li>Glorious Victory</li>
                 <li>Ikoma Tsanuri 2</li>
                 <li>Logistics</li>
                 <li>Tactical Ingenuity</li>
             </ul>
             <strong>Phoenix</strong>
             <ul>
-                <li style="background-color: #80f087;">Calling the Storm</li>
+                <li>Calling the Storm</li>
                 <li>Consumed by Five Fires</li>
+                <li style="background-color: #80f087;">Dance of Chikushō-dō</li>
                 <li>Display of Power</li>
                 <li>Isawa Tadaka 1</li>
                 <li>Jurōjin’s Curse</li>
@@ -93,11 +96,11 @@ With the release of Adorned Temple, we take it in consideration together with Sh
                 <li>Forged Edict</li>
                 <li>Governor's Spy</li>
                 <li>Hidden Moon Dōjō</li>
-                <li style="color: #e61a10;text-decoration: line-through;">Shadowed Village</li>
+                <li>Shadowed Village</li>
             </ul>
             <strong>Unicorn</strong>
             <ul>
-                <li style="background-color: #80f087;">Force of the River</li>
+                <li>Force of the River</li>
                 <li>Scouted Terrain</li>
                 <li>Spyglass</li>
                 <li>Talisman of the Sun</li>
@@ -119,7 +122,7 @@ With the release of Adorned Temple, we take it in consideration together with Sh
             </ul>
             <strong>Dragon</strong>
             <ul>
-                <li style="background-color: #80f087;">Adorned Temple</li>
+                <li>Adorned Temple</li>
                 <li>Ki Alignment</li>
                 <li>Mirumoto’s Fury</li>
                 <li>Sacred Sanctuary</li>
@@ -145,7 +148,7 @@ With the release of Adorned Temple, we take it in consideration together with Sh
                 <li>Bayushi Shoju 2</li>
                 <li>Mark of Shame</li>
                 <li>Shadow Step</li>
-                <li style="background-color: #80f087;">Shadowed Village</li>
+                <li>Shadowed Village</li>
             </ul>
             <strong>Unicorn</strong>
             <ul>
