@@ -1,9 +1,9 @@
 ---
 permalink: /edict
-date: 2021-04-14
+date: 2021-05-28
 ---
 
-# Jade Edict: Big Bentō
+# Jade Edict: Under Fu Leng's Shadow
 
 > TLDR: [if you just want to see the final list go here](#edict-of-judgment-the-compiled-list)
 
