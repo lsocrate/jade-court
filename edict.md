@@ -164,7 +164,7 @@ Dance of Chikusho-do is, in theory, a nice card; it costs 2 fate, the cards come
 
 This Jade Edict was elaborated in appreciation for the game and respect for the community, by the Magistrate Team:
 
-> DirtyDeeds#9918, jmart#6576, Notfragile#7860, Siri#3954, Usagi#0328, zarzuckett#6853
+> DirtyDeeds#9918, jmart#6576, Notfragile#7860, Usagi#0328, zarzuckett#6853
 
 With the invaluable playtest and council of the Councillors:
 
