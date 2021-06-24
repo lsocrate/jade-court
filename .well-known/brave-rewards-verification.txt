@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jadecourt.org
+Token: c559eee1c620d9d28eacf6084a4cfc0c4e0a3ea908dfa3421091995905d2db22
