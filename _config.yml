@@ -5,3 +5,5 @@ google_analytics: G-MFB2KDZQ3Q
 show_downloads: false
 github:
   is_project_page: false
+include:
+  - .well-known
