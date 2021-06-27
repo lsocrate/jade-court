@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: Jade Court
 description: a fan-made balance patch to Legend of the Five Rings
-google_analytics: G-MFB2KDZQ3Q
 show_downloads: false
 github:
   is_project_page: false
