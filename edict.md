@@ -96,7 +96,6 @@ Dance of Chikusho-do is, in theory, a nice card; it costs 2 fate, the cards come
                 <li>Forged Edict</li>
                 <li>Governor's Spy</li>
                 <li>Hidden Moon Dōjō</li>
-                <li>Shadowed Village</li>
             </ul>
             <strong>Unicorn</strong>
             <ul>
